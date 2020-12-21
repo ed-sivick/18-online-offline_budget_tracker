@@ -64,12 +64,12 @@ ___
 Heroku link: (https://secret-dawn-96195.herokuapp.com/)   
 
 **Application Image Examples:** 
-<p><strong>Image of Budget Tracker with Transactions added offline</strong></p>
+<p><strong>Image of Budget Tracker with Transactions added offline on stand-alone app</strong></p>
 <p align="left">
-  <img src="public/images/transaction-offline1.png" width="800" title="Image of Budget Tracker with Transactions added offline" alt="Image of Budget Tracker with Transactions added offline">
+  <img src="public/images/transaction-offline1.png" width="800" title="Image of Budget Tracker with Transactions added offline on stand-alone app" alt="Image of Budget Tracker with Transactions added offline on stand-alone app">
   </p><br>
   
-<p><strong>Image of Budget Tracker with offline Transactions added to database when User is back online</strong></p>
+<p><strong>Image of Budget Tracker with offline Transactions added to Atlas database when User is back online</strong></p>
 <p align="left">
-  <img src="public/images/transaction-online1.png" width="800" title="Image of Budget Tracker with offline Transactions added to database when User is back online" alt="Image of Budget Tracker with offline Transactions added to database when User is back online">
+  <img src="public/images/transaction-online1.png" width="800" title="Image of Budget Tracker with offline Transactions added to Atlas database when User is back online" alt="Image of Budget Tracker with offline Transactions added to Atlas database when User is back online">
   </p><br>
