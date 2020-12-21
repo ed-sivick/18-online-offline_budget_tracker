@@ -29,6 +29,8 @@ ___
 (3) **App is running on port 3000!**   
 (4) Go to Google Chrome, and type URL: **localhost:3000**   
 (5) The app is now running and the user can add the **Name of transaction**, the **Transaction amount**, and **+ Add Funds** or **- Subtract Funds**.  
+
+(6) Go to upper right corner of Google Chrome and select "Customize and control Google Chrome", select "Install/Open in budget_tracker" from the dropdown menu.  This will create a stand-alone app on your desktop which can be used to add transactions when offline.
    
 _____
 ## Usage
@@ -62,17 +64,12 @@ ___
 Heroku link: (https://secret-dawn-96195.herokuapp.com/)   
 
 **Application Image Examples:** 
-<p><strong>Image of Budget Tracker with Transaction Name to Add Funds</strong></p>
+<p><strong>Image of Budget Tracker with Transactions added offline</strong></p>
 <p align="left">
-  <img src="public/images/budgetadd1.png" width="800" title="Image of Budget Tracker with Transaction Name to Add Funds" alt="Image of Budget Tracker with Transaction Name to Add Funds">
-  </p><br>
-
-<p><strong>Image of Budget Tracker with Transaction Name to Subtract Funds</strong></p>
-<p align="left">
-  <img src="public/images/budgetsub1.png" width="800" title="Image of Budget Tracker with Transaction Name to Subtract Funds" alt="Image of Budget Tracker with Transaction Name to Subtract Funds">
+  <img src="public/images/transaction-offline1.png" width="800" title="Image of Budget Tracker with Transactions added offline" alt="Image of Budget Tracker with Transactions added offline">
   </p><br>
   
-<p><strong>Image of Budget Tracker with Transaction Table and Data Graph</strong></p>
+<p><strong>Image of Budget Tracker with offline Transactions added to database when User is back online</strong></p>
 <p align="left">
-  <img src="public/images/budget1.png" width="800" title="Image of Budget Tracker with Transaction Table and Data Graph" alt="Image of Budget Tracker with Transaction Table and Data Graph">
+  <img src="public/images/transaction-online1.png" width="800" title="Image of Budget Tracker with offline Transactions added to database when User is back online" alt="Image of Budget Tracker with offline Transactions added to database when User is back online">
   </p><br>
