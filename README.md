@@ -1,7 +1,7 @@
 # 18-Online/Offline Budget Tracker
 ___
 ## Objective
-Add functionality to the existing Budget Tracker application from 17-Week_NoSQL > 01-Activities > 03-Day_IndexedDB > 26-Stu-Mini-Project to allow offline access and functionality.
+Add functionality to the existing Budget Tracker application from `17-Week_NoSQL > 01-Activities > 03-Day_IndexedDB > 26-Stu-Mini-Project` to allow offline access and functionality.
 ___
 ## Table of Contents
 * [User_Story](#user_story)
@@ -64,12 +64,12 @@ Heroku link: (https://secret-dawn-96195.herokuapp.com/)
 **Application Image Examples:** 
 <p><strong>Image of Budget Tracker with Transaction Name to Add Funds</strong></p>
 <p align="left">
-  <img src="public/images/budgetadd1.png" width="400" title="Image of Budget Tracker with Transaction Name to Add Funds" alt="Image of Budget Tracker with Transaction Name to Add Funds">
+  <img src="public/images/budgetadd1.png" width="800" title="Image of Budget Tracker with Transaction Name to Add Funds" alt="Image of Budget Tracker with Transaction Name to Add Funds">
   </p><br>
 
 <p><strong>Image of Budget Tracker with Transaction Name to Subtract Funds</strong></p>
 <p align="left">
-  <img src="public/images/budgetsub1.png" width="400" title="Image of Budget Tracker with Transaction Name to Subtract Funds" alt="Image of Budget Tracker with Transaction Name to Subtract Funds">
+  <img src="public/images/budgetsub1.png" width="800" title="Image of Budget Tracker with Transaction Name to Subtract Funds" alt="Image of Budget Tracker with Transaction Name to Subtract Funds">
   </p><br>
   
 <p><strong>Image of Budget Tracker with Transaction Table and Data Graph</strong></p>
