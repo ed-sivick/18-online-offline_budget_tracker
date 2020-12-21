@@ -15,7 +15,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-// Required for Heroku deployment
+// Required for Atlas-Heroku deployment
 mongoose.connect(
   process.env.MONGODB_URI || 'mongodb://localhost/budget',
   {
