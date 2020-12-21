@@ -1,7 +1,7 @@
 # 18-Online/Offline Budget Tracker
 ___
 ## Objective
-Add functionality to the existing Budget Tracker application from `17-Week_NoSQL > 01-Activities > 03-Day_IndexedDB > 26-Stu-Mini-Project` to allow offline access and functionality.
+Add functionality to a Budget Tracker application similar to `17-Week_NoSQL > 01-Activities > 03-Day_IndexedDB > 26-Stu-Mini-Project` by allowing offline access and functionality.
 ___
 ## Table of Contents
 * [User_Story](#user_story)
