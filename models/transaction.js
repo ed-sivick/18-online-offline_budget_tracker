@@ -1,3 +1,5 @@
+// Reference code from: 17-Week_NoSQL > 01-Activities > 03-Day_IndexedDB > 26-Stu-Mini-Project
+
 const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;

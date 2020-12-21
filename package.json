@@ -1,5 +1,5 @@
 {
-  "name": "budget-app",
+  "name": "online-offline_budget_tracker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,15 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "https://github.com/ed-sivick/18-online-offline_budget_tracker"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
-  },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "author": "ed-sivick",
+  "license": "MIT",
   "dependencies": {
+    "bootstrap": "^4.5.3",
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "lite-server": "^2.5.3",
