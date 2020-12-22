@@ -30,7 +30,7 @@ ___
 (4) Go to Google Chrome, and type URL: **localhost:3000**   
 (5) The app is now running and the user can add the **Name of transaction**, the **Transaction amount**, and **+ Add Funds** or **- Subtract Funds**.  
 
-(6) Go to upper right corner of Google Chrome and select "Customize and control Google Chrome", select "Install/Open in budget_tracker" from the dropdown menu.  This will create a stand-alone app on your desktop which can be used to add transactions when offline.
+(6) Go to upper right corner of Google Chrome and select "Customize and control Google Chrome", select "Install/Open in budget_tracker" from the dropdown menu.  This will create a local version of the app on your device which can be used to add transactions when offline.
    
 _____
 ## Usage
@@ -38,7 +38,7 @@ This app allows users a fast and easy way to track their money, and access that 
 - Enter deposit transactions (+ Add Funds)
 - Enter expense or withdrawal transactions (- Subtract Funds)
 
-While offline, the user can input deposit or withdrawal transactions. When their connection is back online, the information will be shown in the table on the page with a graphical representation of the transactions.
+While offline, the user can input deposit or withdrawal transactions. When their connection is back online, the information will be uploaded to the remote database, and shown in the table on the page with a graphical representation of the transactions.
 
 _____
 ## Contributing
@@ -64,9 +64,9 @@ ___
 Heroku link: (https://secret-dawn-96195.herokuapp.com/)   
 
 **Application Image Examples:** 
-<p><strong>Image of Budget Tracker with Transactions added offline on stand-alone app</strong></p>
+<p><strong>Image of Budget Tracker with Transactions added to app offline on local device</strong></p>
 <p align="left">
-  <img src="public/images/transaction-offline1.png" width="800" title="Image of Budget Tracker with Transactions added offline on stand-alone app" alt="Image of Budget Tracker with Transactions added offline on stand-alone app">
+  <img src="public/images/transaction-offline1.png" width="800" title="Image of Budget Tracker with Transactions added to app offline on local device" alt="Image of Budget Tracker with Transactions added to app offline on local device">
   </p><br>
   
 <p><strong>Image of Budget Tracker with offline Transactions added to Atlas database when User is back online</strong></p>
